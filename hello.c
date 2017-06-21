@@ -5,4 +5,5 @@ void main()
 	int a=1;
 	printf("used: git\n");
 	printf("%d",a);
+	return;
 }
